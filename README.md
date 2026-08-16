@@ -1,183 +1,179 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?lines=%24+whoami;Vaibhav+Wadje;%24+cat+role.txt;Software+Developer+%7C+Java+%2B+Spring+Boot;%24+echo+%24STATUS;Open+to+Full-Stack+%2F+Backend+Roles&center=true&width=560&height=45&font=Fira+Code&pause=1200&color=00F8AB&vCenter=true" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Vaibhav%20Wadje&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Developer%20%E2%80%A2%20Java%20%2B%20Spring%20Boot%20%E2%80%A2%20Full%20Stack&descAlignY=56&descSize=18&descColor=d6e4ec" width="100%"/>
 
-<a href="https://github.com/vaibhavwadje">
-  <img src="https://komarev.com/ghpvc/?username=vaibhavwadje&label=visitors&color=1a1a1a&style=flat-square" />
-</a>
+<img src="https://readme-typing-svg.demolab.com/?lines=Java+%2B+Spring+Boot+Developer;2+Years+Android+Development;PGCP-AC+Graduate+%40+C-DAC;Open+to+Full-Stack+%2F+Backend+Roles&center=true&width=520&height=40&font=Fira+Code&pause=1200&color=2C5364&vCenter=true" />
+
+<br>
+
+<img src="https://img.shields.io/badge/status-open%20to%20work-1a7f37?style=for-the-badge&labelColor=0f2027" />
+<img src="https://komarev.com/ghpvc/?username=vaibhavwadje&label=profile%20views&color=2c5364&style=for-the-badge&labelColor=0f2027" />
 
 </div>
 
 <br>
 
-```bash
-vaibhav@dev:~$ neofetch
-```
+## 📌 About
 
-```text
-                     .----------------.       vaibhav@dev
-                    /                  \      ------------------------------
-                   |    ~/  ▓▓▓▓▓▓  \    |     OS: Full-Stack Developer
-                   |   /   ▓▓▓▓▓▓▓▓  \   |     Role: Java / Spring Boot Engineer
-                   |  |    ▓▓▓▓▓▓▓▓   |  |     Background: Android Dev, 2 Years
-                    \  \   ▓▓▓▓▓▓  /  /       Education: PGCP-AC @ C-DAC
-                     '----------------'       Uptime: Open to Work ●
+<table>
+<tr>
+<td width="60%" valign="top">
 
-Languages   : Java, Java 8, Python, C#, JavaScript, SQL
-Backend     : Spring, Spring Boot, J2EE, Hibernate, JPA, REST APIs, JDBC
-Frontend    : React, HTML, CSS, Bootstrap
-Database    : MySQL
-Android     : Android SDK, Firebase, Retrofit
-Tools       : Git, GitHub, Maven, Postman
-```
+Software Developer with **2 years of experience in Android development**, later completed **PGCP-AC** (Post Graduate Certificate Programme in Advanced Computing) at **C-DAC** to move into backend and full-stack development.
 
-<br>
+Hands-on with **Java 8, Spring Boot, J2EE, React, .NET, Hibernate/JPA and MySQL**, with a practical understanding of both frontend and backend.
 
-```bash
-vaibhav@dev:~$ cat about.md
-```
+Currently open to roles as a **Java Developer**, **Backend Developer**, or **Full Stack Developer**.
 
-> I'm a Software Developer with 2 years of experience in Android development.
-> I later completed **PGCP-AC** (Post Graduate Certificate Programme in Advanced
-> Computing) at **C-DAC**, working across Java 8, Spring Boot, J2EE, React,
-> .NET, Hibernate/JPA and MySQL to build practical full-stack skills.
->
-> Currently open to **Java Developer**, **Backend Developer**, or
-> **Full Stack Developer** roles.
+- 🔭 Building Java backend apps, Spring Boot REST APIs, and full-stack applications
+- 🌱 Learning Advanced Spring Boot, Microservices, System Design, and Cloud & Deployment
+- 📫 vaibhavwadje@gmail.com
+
+</td>
+<td width="40%" valign="top">
+
+<img src="https://github-readme-stats.vercel.app/api?username=vaibhavwadje&show_icons=true&theme=dark&hide_border=true&bg_color=0f2027&title_color=6dd3c8&icon_color=6dd3c8&text_color=d6e4ec" width="100%"/>
+
+</td>
+</tr>
+</table>
 
 <br>
 
-```bash
-vaibhav@dev:~$ git log --oneline --graph career
-```
+## 🧰 Tech Stack
 
-```text
-* 8f2a1c9 (HEAD -> main) open to new opportunities
-* 5d9e3b7 full stack development
-* 2c7a4f1 backend development — Java + Spring Boot
-* 9b3e8d2 PGCP-AC — C-DAC
-* 4a1f6c8 (tag: android-dev) 2 years experience
-* e7d2a90 android development — root commit
-```
+**Languages**
 
-<br>
+<img src="https://skillicons.dev/icons?i=java,py,cs,js,mysql" />
 
-```bash
-vaibhav@dev:~$ ls -la ~/projects
-```
+**Backend**
 
-```text
-drwxr-xr-x  fleet-management-system        # Spring Boot + .NET microservice + React fleet/rental platform
-drwxr-xr-x  multi-canteen-ewallet          # Android multi-canteen ordering + real-time e-wallet
-drwxr-xr-x  crop-disease-detection         # On-device TFLite crop disease classifier
-drwxr-xr-x  class-attendance-system        # Face detection & recognition attendance (Python)
-drwxr-xr-x  trading-bot-mt4-mt5            # Python trading bot with live market data
-```
+<img src="https://skillicons.dev/icons?i=spring,java" />
+<code>J2EE</code> <code>Hibernate</code> <code>JPA</code> <code>REST APIs</code> <code>JDBC</code>
 
-### 📁 `~/projects/fleet-management-system`
+**Frontend**
 
-Web-based fleet management system for a Rent-a-Car service — Spring 6, Spring Boot and JPA on the backend, a .NET Core Web API microservice, and a React JS front end.
+<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap" />
 
-```yaml
-stack: [Jakarta EE, Spring Boot, ASP.NET Core, React JS, MySQL, Docker, JWT, REST API, Microservices]
-features:
-  - Customers browse and rent cars with optional add-ons, pick-up/return hub selection
-  - Staff manage vehicle handover/return, billing, and fleet
-repo: github.com/Fleet-Management-09/Fleet-Management-V1
-```
+**Android**
 
-### 📁 `~/projects/multi-canteen-ewallet`
+<img src="https://skillicons.dev/icons?i=androidstudio,firebase" />
+<code>Retrofit</code>
 
-Android app for managing orders across multiple canteens with an integrated e-wallet, built to help parents and students track spending.
+**Tools**
 
-```yaml
-stack: [Android, Java, XML, PHP REST API, MySQL]
-features:
-  - Canteen selection, product categorization, cart and order placement
-  - Real-time e-wallet deducts payments and updates balances
-repo: github.com/vaibhavwadje/Multi-Canteen_E-Wallet_Android_Application
-```
-
-### 📁 `~/projects/crop-disease-detection`
-
-Android app that classifies crop diseases on-device using a custom-trained TensorFlow Lite model.
-
-```yaml
-stack: [Android, Java, TensorFlow Lite, ML Model Binding]
-features:
-  - Captures/selects leaf images, resized and classified on-device
-  - Predictions stored in a backend DB for expert review
-  - Farmer awareness: government schemes, exhibitions, updates
-```
-
-### 📁 `~/projects/class-attendance-system`
-
-Face detection and recognition based attendance system.
-
-```yaml
-stack: [Python, OpenCV, Pandas, NumPy]
-features:
-  - Automated attendance via face recognition
-  - Image processing pipeline with OpenCV
-```
-
-### 📁 `~/projects/trading-bot-mt4-mt5`
-
-Python trading bot integrated with MT4 & MT5 for live/historical data and order execution.
-
-```yaml
-stack: [Python, MT4, MT5]
-features:
-  - Fetches historical and live trading data, basic analysis
-  - Order placement, status tracking, buy/sell operations
-  - Tested on a practical trial account
-```
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman" />
+<code>Maven</code>
 
 <br>
 
-```bash
-vaibhav@dev:~$ env | grep CURRENT
-```
+## 🚀 Featured Projects
 
-```text
-CURRENTLY_BUILDING="Java Backend Applications, Spring Boot REST APIs, Full Stack Applications"
-CURRENTLY_LEARNING="Advanced Spring Boot, Microservices, System Design, Cloud & Deployment"
-```
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🚗 Fleet Management System
+Web-based fleet management platform for a Rent-a-Car service — Spring Boot + JPA backend, a .NET Core Web API microservice, and a React JS front end.
+
+`Jakarta EE` `Spring Boot` `ASP.NET Core` `React` `MySQL` `Docker` `JWT` `Microservices`
+
+- Customers browse/rent cars with add-ons and hub selection
+- Staff manage handover/return, billing, and fleet
+
+**[→ View Repo](https://github.com/Fleet-Management-09/Fleet-Management-V1)**
+
+</td>
+<td width="50%" valign="top">
+
+### 💳 Multi-Canteen E-Wallet App
+Android app for ordering across multiple canteens with an integrated real-time e-wallet, helping students track spending.
+
+`Android` `Java` `XML` `PHP REST API` `MySQL`
+
+- Canteen selection, cart, and order placement
+- Real-time wallet balance updates
+
+**[→ View Repo](https://github.com/vaibhavwadje/Multi-Canteen_E-Wallet_Android_Application)**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌾 Crop Disease Detection
+Android app classifying crop diseases on-device using a custom-trained TensorFlow Lite model.
+
+`Android` `Java` `TensorFlow Lite` `ML Model Binding`
+
+- Captures leaf images, classifies on-device
+- Expert review dashboard + farmer awareness content
+
+</td>
+<td width="50%" valign="top">
+
+### 🎯 Automatic Attendance System
+Face detection and recognition based class attendance system.
+
+`Python` `OpenCV` `Pandas` `NumPy`
+
+- Automated attendance via face recognition
+- Image processing pipeline with OpenCV
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📈 Trading Bot — MT4 & MT5
+Python trading bot fetching live/historical market data with automated order execution.
+
+`Python` `MT4` `MT5`
+
+- Order placement, status tracking, buy/sell logic
+- Tested on a practical trial account
+
+</td>
+<td width="50%" valign="top">
+
+</td>
+</tr>
+</table>
 
 <br>
 
-```bash
-vaibhav@dev:~$ cat contact.txt
-```
+## 🏆 GitHub Trophies
 
-```text
-> email      vaibhavwadje@gmail.com
-> linkedin   linkedin.com/in/vaibhav-wadje
-> github     github.com/vaibhavwadje
-```
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=vaibhavwadje&theme=algolia&no-frame=true&row=1&column=6&margin-w=8" />
+</div>
+
+<br>
+
+## 🧭 Developer Journey
 
 <div align="center">
 
-<a href="mailto:vaibhavwadje@gmail.com">
-  <img src="https://img.shields.io/badge/-vaibhavwadje%40gmail.com-1a1a1a?style=flat-square&logo=gmail&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/vaibhav-wadje/">
-  <img src="https://img.shields.io/badge/-LinkedIn-1a1a1a?style=flat-square&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/vaibhavwadje">
-  <img src="https://img.shields.io/badge/-GitHub-1a1a1a?style=flat-square&logo=github&logoColor=white" />
-</a>
-
-<br><br>
-
-<img src="https://img.shields.io/github/followers/vaibhavwadje?label=followers&style=flat-square&color=1a1a1a&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/vaibhavwadje&label=public%20repos&query=public_repos&style=flat-square&color=1a1a1a&logo=github&logoColor=white" />
+`Android Development` → `2 Years Experience` → `PGCP-AC @ C-DAC` → `Java + Spring Boot` → `Backend Dev` → `Full Stack Dev` → **`Open to Opportunities`**
 
 </div>
 
 <br>
 
-```text
-> ready_to_connect
-true
-```
+## 🌐 Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/vaibhav-wadje/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/vaibhavwadje">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="mailto:vaibhavwadje@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
